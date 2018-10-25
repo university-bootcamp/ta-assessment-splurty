@@ -2,7 +2,7 @@
 
 Splurty is the first application students build.
 
-This problem is a very common problem that exists on [Lesson 6](https://workspace.thefirehoseproject.com/splurty/6) of the splurty application..
+This problem is a very common problem that exists on [Lesson 6](https://workspace.thefirehoseproject.com/splurty/6) of the splurty application.
 
 
 ```
@@ -11,3 +11,6 @@ rake db:create
 rake db:schema:load
 ```
 
+*Problem*: In this error, students will see a NoMethodError.
+
+![error.png](error.png)
